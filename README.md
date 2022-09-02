@@ -6,9 +6,7 @@ React-VR demo with command line tool to change photosphere images
 
 Once deployed you can view the VR demo by navigating to:
 
-https://8081-gitpodaddress
-
-Alternatively, simply open a browser session on port 8081 though the Gitpod IDE
+https://8081-gitpodaddress/vr
 
 #  Changing images
 
