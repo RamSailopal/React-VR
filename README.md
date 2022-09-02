@@ -10,6 +10,8 @@ https://8081-gitpodaddress
 
 Alternatively, simply open a browser session on port 8081 though the Gitpod IDE
 
+#  Changing images
+
 Once the deployed, you can also change photosphere images by opening a new terminal in Gitpod and then executing:
 
      ./changepic.sh 'https://live.staticflickr.com/4274/34677807021_121009c5f6_o_d.jpg'
