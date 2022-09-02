@@ -1,0 +1,14 @@
+#
+#       AUTHOR - Raman Sailopal
+#
+version: "2"
+services:
+ node:
+   image: docker.io/ubuntu
+   hostname: node
+   container_name: reactvr
+   ports:
+      - 8081:8081
+   volumes:
+     - "$PWD/entrypoint/:/home/entrypoint"
+   entrypoint: [ "/bin/bash", "-c", "/home/entrypoint/entrypoint.sh" ]
