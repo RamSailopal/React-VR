@@ -18,6 +18,8 @@ Where **https://live.staticflickr.com/4274/34677807021_121009c5f6_o_d.jpg** is t
 
 A good link for photosphere images is here - https://www.flickr.com/search/?text=equirectangular
 
+Once the changepic command finishes executing, refresh the browser page to see the new image in VR
+
 
 # References
 
