@@ -1,6 +1,6 @@
 # React-VR
 
-React-VR demo with command line tool to change photosphere images
+React-VR demo with command line tool to change equirectangular images
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RamSailopal/React-VR)
 
@@ -10,11 +10,11 @@ https://8081-gitpodaddress/vr
 
 #  Changing images
 
-Once the deployed, you can also change photosphere images by opening a new terminal in Gitpod and then executing:
+Once the deployed, you can also change equirectangular images by opening a new terminal in Gitpod and then executing:
 
      ./changepic.sh 'https://live.staticflickr.com/4274/34677807021_121009c5f6_o_d.jpg'
    
-Where **https://live.staticflickr.com/4274/34677807021_121009c5f6_o_d.jpg** is the download link of the photospheric image to change to
+Where **https://live.staticflickr.com/4274/34677807021_121009c5f6_o_d.jpg** is the download link of the equirectangular image to change to
 
 A good link for photosphere images is here - https://www.flickr.com/search/?text=equirectangular
 
