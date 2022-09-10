@@ -10,7 +10,7 @@ https://8081-gitpodaddress/vr
 
 #  Changing images
 
-Once the deployed, you can also change equirectangular images by opening a new terminal in Gitpod and then executing:
+Once deployed, you can also change equirectangular images by opening a new terminal in Gitpod and then executing:
 
      ./changepic.sh 'https://live.staticflickr.com/4274/34677807021_121009c5f6_o_d.jpg'
    
